@@ -25,6 +25,7 @@ nav{
     float:center;
 }
 li{
+    display:flex;
     float:left;
     padding: 1rem;
     list-style: none;
