@@ -20,7 +20,7 @@ footer
     width: 100%;
     background-image:linear-gradient( to top, var(--color1),var(--color2));
 }
-.nav{
+nav{
     display:flex;
     float:center;
 }
